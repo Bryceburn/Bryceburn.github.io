@@ -5,3 +5,12 @@ p {
 #about-me {
     font-size: xx-large;
 }
+#classes paragraph {
+    font-size:large;
+}
+.cool {
+    border: 5px black solid;
+}
+.lame{
+    font-size:x-small;
+}
